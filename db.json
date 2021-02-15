@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "document": 12123123,
+    "fullname": "Rodrigo Visa",
+    "phone": "(011) 4379-3400"
+  },
+  {
+    "id": 2,
+    "document": 13132132,
+    "fullname": "Carlos Mastercard",
+    "phone": "(011) 4340-5700"
+  },
+  {
+    "id": 3,
+    "document": 10101101,
+    "fullname": "Roberto Carlos",
+    "phone": "(011) 5353-0606"
+  },
+  {
+    "id": 4,
+    "document": 11011011,
+    "fullname": "Roberto Ramasso",
+    "phone": "(011) 2543-2503"
+  },    
+]
